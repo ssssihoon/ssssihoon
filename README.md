@@ -3,5 +3,13 @@
 - 📩 ghkdtlgns207@naver.com
 - 📞 +82 10-5393-3559
 
+## Available Skills
+
+### Language
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</div>
+
+## BOJ
 [![Solved.ac
-ghkdtlgns207](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+ghkdtlgns207](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdtlgns207)](https://solved.ac/ghkdtlgns207)
