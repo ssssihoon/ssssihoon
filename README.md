@@ -27,4 +27,4 @@ ghkdtlgns207](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdtlgns207)]
 
 
 ## Kaggle
-![sihoonhwang](https://road-to-kaggle-grandmaster.vercel.app/api/simple/{sihoonhwang})
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sihoonhwang)
