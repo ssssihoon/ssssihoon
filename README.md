@@ -35,3 +35,6 @@ ghkdtlgns207](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdtlgns207)]
 
 ## Kaggle
 [![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/sihoonhwang)](https://www.kaggle.com/sihoonhwang)
+
+
+![sihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssssihoon&show_icons=true)
