@@ -25,10 +25,6 @@
 </div>
 
 
-### Libraries
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
-
-</div>
 
 
 ## BOJ
